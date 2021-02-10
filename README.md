@@ -2,7 +2,8 @@
 
 <img align='left' alt="Sultan Sarıbaş's Github Stats" src='https://github-readme-stats.vercel.app/api?username=SultanSaribas&show_icons=true'>
 
-### Coonect With Me;
+### Connect With Me;
+<br>
 
 [<img align="left" alt="SultanSaribas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="SultanSaribas | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][HackerRank]
