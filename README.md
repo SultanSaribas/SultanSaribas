@@ -1,4 +1,5 @@
-### Hi, there. I am Sultan Sarıbaş👋
+### Hi, there. I am Sultan Sarıbaş👋 
+**I am a Computer Engineering Student at Abdullah Gül University in Turkey.**
 
 
 
