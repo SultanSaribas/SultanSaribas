@@ -1,12 +1,13 @@
 ### Hi, there. I am Sultan Sarıbaş👋
 
-<img align="right" alt="Sultan Sarıbaş's Github Stats" src='https://github-readme-stats.vercel.app/api?username=SultanSaribas&show_icons=true&theme=dark'>
+
+
 <br>
-<img align="right" alt="Sultan Sarıbaş's Top Languages" src='https://github-readme-stats.vercel.app/api/top-langs/?username=SultanSaribas&layout=compact&theme=dark'>
 
 ![SultanSaribas](https://komarev.com/ghpvc/?username=SultanSaribas&color=lightgrey&label=VISITORS&style=plastic)
 
 <br>
+
 
 
 ### Connect With Me;
@@ -20,9 +21,15 @@
 <a href="https://discordapp.com/users/552393322157703168/">
   <img align="left" alt="SultanSaribas | Discord" width="35px" src="https://github.com/SultanSaribas/SultanSaribas/blob/master/discord.svg" />
 </a>
+
 <a href="https://telegram.me/ssultii">
   <img align="left" alt="SultanSaribas | Telegram" width="35px" src="https://github.com/SultanSaribas/SultanSaribas/blob/master/telegram.svg" />
 </a>
 
+<br>
+<br>
+<img align="left" alt="Sultan Sarıbaş's Github Stats" src='https://github-readme-stats.vercel.app/api?username=SultanSaribas&show_icons=true&theme=dark'> 
+
+<img align="right" alt="Sultan Sarıbaş's Top Languages" src='https://github-readme-stats.vercel.app/api/top-langs/?username=SultanSaribas&layout=compact&theme=dark'>
 
 
