@@ -2,11 +2,12 @@
 
 <img align="right" alt="Sultan Sarıbaş's Github Stats" src='https://github-readme-stats.vercel.app/api?username=SultanSaribas&show_icons=true&theme=dark'>
 <br>
+<img align="right" alt="Sultan Sarıbaş's Top Languages" src='https://github-readme-stats.vercel.app/api/top-langs/?username=SultanSaribas&layout=compact&theme=dark'>
 
 ![SultanSaribas](https://komarev.com/ghpvc/?username=SultanSaribas&color=lightgrey&label=VISITORS&style=plastic)
 
 <br>
-<img align="right" alt="Sultan Sarıbaş's Top Languages" src='https://github-readme-stats.vercel.app/api/top-langs/?username=SultanSaribas&layout=compact&theme=dark'>
+
 
 ### Connect With Me;
 
