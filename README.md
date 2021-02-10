@@ -9,14 +9,18 @@
 
 ### Connect With Me;
 
-[<img alt="SultanSaribas | LinkedIn" width="22px" marginLeft="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color=#0077B5 />][linkedin]
-[<img alt="SultanSaribas | HackerRank" width="22px" marginLeft="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][HackerRank]
-[<img alt="SultanSaribas | Twitter" width="22px" marginLeft="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-
+<a href="https://www.linkedin.com/in/sultan-sariba%C5%9F-283920141/">
+  <img align="left" alt="SultanSaribas | LinkedIn"  width="35px" src="https://github.com/SultanSaribas/SultanSaribas/blob/master/linkedin.svg" />
+</a>
+<a href="https://www.hackerrank.com/saribassultan">
+  <img align="left" alt="SultanSaribas | HackerRank" width="35px" src="https://github.com/SultanSaribas/SultanSaribas/blob/master/hackerrank.svg" />
+</a>
+<a href="https://discordapp.com/users/552393322157703168/">
+  <img align="left" alt="SultanSaribas | Discord" width="35px" src="https://github.com/SultanSaribas/SultanSaribas/blob/master/discord.svg" />
+</a>
+<a href="https://telegram.me/ssultii">
+  <img align="left" alt="SultanSaribas | Telegram" width="35px" src="https://github.com/SultanSaribas/SultanSaribas/blob/master/telegram.svg" />
+</a>
 
 <img align="right" alt="Sultan Sarıbaş's Top Languages" src='https://github-readme-stats.vercel.app/api/top-langs/?username=SultanSaribas&layout=compact&theme=dark'>
 
-[website]: https://sultansaribas.github.io/
-[linkedin]: https://www.linkedin.com/in/sultan-sariba%C5%9F-283920141/
-[HackerRank]: https://www.hackerrank.com/saribassultan
-[telegram]: https://telegram.me/ssultii
