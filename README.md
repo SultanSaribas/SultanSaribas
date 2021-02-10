@@ -1,14 +1,9 @@
 ### Hi, there. I am Sultan Sarıbaş👋 
 **I am a Computer Engineering Student at Abdullah Gül University in Turkey.**
 
-
-
 <br>
 
 ![SultanSaribas](https://komarev.com/ghpvc/?username=SultanSaribas&color=lightgrey&label=VISITORS&style=plastic)
-
-<br>
-
 
 
 ### Connect With Me;
@@ -31,7 +26,7 @@
 
 
 
-<img align="left" alt="Sultan Sarıbaş's Github Stats" src='https://github-readme-stats.vercel.app/api?username=SultanSaribas&show_icons=true&theme=dark'> 
+<img align="left" width="500px" alt="Sultan Sarıbaş's Github Stats" src='https://github-readme-stats.vercel.app/api?username=SultanSaribas&show_icons=true&theme=dark'> 
 
 <img align="right" alt="Sultan Sarıbaş's Top Languages" src='https://github-readme-stats.vercel.app/api/top-langs/?username=SultanSaribas&layout=compact&theme=dark'>
 
