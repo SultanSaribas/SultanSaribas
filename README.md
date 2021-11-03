@@ -29,7 +29,7 @@
 <img align="left" width="420px" alt="Sultan Sarıbaş's Github Stats" src='https://github-readme-stats.vercel.app/api?username=SultanSaribas&show_icons=true&theme=gruvbox'> 
 
 
-<img align="right" alt="Sultan Sarıbaş's Top Languages" src='https://github-readme-stats.vercel.app/api/top-langs/?username=SultanSaribas&&langs_count=&layout=compact&theme=gruvbox'>
+<img align="right" alt="Sultan Sarıbaş's Top Languages" src='https://github-readme-stats.vercel.app/api/top-langs/?username=SultanSaribas&&langs_count=8&layout=compact&theme=gruvbox'>
 
 
 
