@@ -26,7 +26,7 @@
 
 
 
-<img align="left" width="450px" alt="Sultan Sarıbaş's Github Stats" src='https://github-readme-stats.vercel.app/api?username=SultanSaribas&show_icons=true&theme=dark'> 
+<img align="left" width="440px" alt="Sultan Sarıbaş's Github Stats" src='https://github-readme-stats.vercel.app/api?username=SultanSaribas&show_icons=true&theme=dark'> 
 
 <img align="right" alt="Sultan Sarıbaş's Top Languages" src='https://github-readme-stats.vercel.app/api/top-langs/?username=SultanSaribas&layout=compact&theme=dark'>
 
