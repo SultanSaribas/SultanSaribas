@@ -1,12 +1,14 @@
-### Hi, there. I am Sultan Sarıbaş👋 
-**I am a Computer Engineering Student at Abdullah Gül University in Turkey.**
+### Hi, there. I am Sultan Sarıbaş👋
+
+**:information_desk_person:I am a Computer Engineering Student at Abdullah Gül University in Turkey. <br>
+:hourglass_flowing_sand:Working on machine learning currently!**
 
 <br>
 
 ![SultanSaribas](https://komarev.com/ghpvc/?username=SultanSaribas&color=lightgrey&label=VISITORS&style=plastic)
 
 
-### Connect With Me;
+### Contact Me;
 
 <a href="https://www.linkedin.com/in/sultan-sariba%C5%9F-283920141/">
   <img align="left" alt="SultanSaribas | LinkedIn"  width="35px" src="https://github.com/SultanSaribas/SultanSaribas/blob/master/linkedin.svg" />
