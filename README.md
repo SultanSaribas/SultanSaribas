@@ -1,7 +1,7 @@
 ### Hi, there. I am Sultan Sarıbaş👋
 
 **:information_desk_person:I am a Computer Engineering Student at Abdullah Gül University in Turkey. <br>
-:hourglass_flowing_sand:Working on machine learning currently!**
+:hourglass_flowing_sand:Working on data science and machine learning currently!**
 
 <br>
 
