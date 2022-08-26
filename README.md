@@ -1,11 +1,17 @@
 ### Hi, there. I am Sultan Sarıbaş👋
 
+<br>
+
+![SultanSaribas](https://komarev.com/ghpvc/?username=SultanSaribas&color=lightgrey&label=VISITORS&style=plastic)
+<br>
+<br>
+<img align="left"  width="100px" src=https://user-images.githubusercontent.com/47698522/186893341-246851f4-ac78-45f5-92f2-48e3398b85e0.png>
+<br>
 **:information_desk_person:I am a fresh graduate Computer Engineer, who studied at Abdullah Gül University in Turkey. <br>
 :hourglass_flowing_sand:Working on data science and machine learning currently!**
 
 <br>
-
-![SultanSaribas](https://komarev.com/ghpvc/?username=SultanSaribas&color=lightgrey&label=VISITORS&style=plastic)
+<br>
 
 
 ### Contact Me;
