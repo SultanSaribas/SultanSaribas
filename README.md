@@ -13,6 +13,9 @@
 <a href="https://www.linkedin.com/in/sultan-sariba%C5%9F-283920141/">
   <img align="left" alt="SultanSaribas | LinkedIn"  width="35px" src="https://github.com/SultanSaribas/SultanSaribas/blob/master/linkedin.svg" />
 </a>
+<a href="https://medium.com/@sulti">
+  <img align="left" alt="SultanSaribas | Medium"  width="35px" src="https://github.com/SultanSaribas/SultanSaribas/blob/master/medium.svg" />
+</a>
 <a href="https://www.hackerrank.com/saribassultan">
   <img align="left" alt="SultanSaribas | HackerRank" width="35px" src="https://github.com/SultanSaribas/SultanSaribas/blob/master/hackerrank.svg" />
 </a>
