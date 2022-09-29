@@ -20,7 +20,7 @@
   <img align="left" alt="SultanSaribas | LinkedIn"  width="35px" src="https://github.com/SultanSaribas/SultanSaribas/blob/master/linkedin.svg" />
 </a>
 <a href="https://medium.com/@sulti">
-  <img align="left" alt="SultanSaribas | Medium"  width="35px" src="https://github.com/SultanSaribas/SultanSaribas/blob/master/medium.svg" />
+  <img align="left" alt="SultanSaribas | Medium"  width="35px" style="background-color:white" src="https://github.com/SultanSaribas/SultanSaribas/blob/master/medium.svg" />
 </a>
 <a href="https://www.hackerrank.com/saribassultan">
   <img align="left" alt="SultanSaribas | HackerRank" width="35px" src="https://github.com/SultanSaribas/SultanSaribas/blob/master/hackerrank.svg" />
