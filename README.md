@@ -10,9 +10,9 @@
 <br>
 
 🎓 **Computer Engineering Graduate (Abdullah Gül University)**  
-💼 **R&D Engineer @ FreshSens** | Cross-platform Flutter Apps + REST APIs  
+💼 **R&D Engineer @ FreshSens** | Cross-platform Flutter Apps + ML-powered Alert Systems   
 🧠 **Passionate about Machine Learning & MLOps** | Building AI-powered, production-ready systems  
-✅ **Completed MLOps Bootcamp** at Veri Bilimi Okulu (2025)
+✅ **Completed MLOps Bootcamp @ Veri Bilimi Okulu (2025)** with a production-grade capstone project
 
 ---
 
@@ -20,16 +20,21 @@
 
 **Languages:** Python, Dart  
 **ML & Data:** TensorFlow, Keras, Scikit-learn, Pandas, NumPy  
-**MLOps & DevOps:** Docker, Terraform, MLflow, Bash, Linux, Crontab  
-**Web & Backend:** FastAPI, SQLModel, Pydantic, RESTful APIs  
-**App Dev:** Flutter, MVVM, MobX, Provider  
-**Databases:** MySQL, PostgreSQL, SQLite, Firebase, S3   
-**Authentication & Security:** JWT Authentication, Token-based Access Control    
-**Other Tools:** Git, GitHub, GitLab, Postman, Swagger UI
+**MLOps & DevOps:** Docker, Terraform, MLflow, Joblib, Swagger UI, Uvicorn, CI/CD (Jenkins), Crontab, Linux Shell, Bash 
+**Backend & APIs:** FastAPI, SQLModel, Pydantic, RESTful APIs, JWT Authentication  
+**App Development:** Flutter, MVVM, MobX, Provider, WorkManager  
+**Databases & Storage:** MySQL, PostgreSQL, SQLite, Firebase, AWS S3    
+**Other Tools:** Git, GitHub, GitLab, Postman
 
 ---
 
 ### 💼 Notable Projects
+
+- 🧠 **[Mental Health Treatment Prediction – MLOps Pipeline](https://github.com/SultanSaribas/Mental-Health-Treatment-Prediction-MLOps-Pipeline)**  
+  MLflow-tracked Logistic Regression pipeline deployed with Docker and FastAPI. Includes data drift detection and MySQL-backed REST API.
+
+- 📉 **[Bank Customer Churn Predictor](https://github.com/SultanSaribas/bank_churn_predictor)**  
+  End-to-end pipeline with Scikit-learn’s ColumnTransformer + RandomForestClassifier. Exposed via FastAPI and containerized for deployment.
 
 - 🔷 **[MLOps Advertising API](https://github.com/SultanSaribas/mlops-advertising-api)**  
   Dockerized FastAPI service for regression model prediction with Terraform deployment  
@@ -67,8 +72,6 @@ Hands-on training on:
 - CI/CD for ML systems
 - Model Deployment, Drift Detection
 - FastAPI, Docker, Jenkins, MLflow, Terraform, AWS
-
-_Capstone project details coming soon!_
 
 ---
 
