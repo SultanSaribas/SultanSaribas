@@ -20,7 +20,7 @@
 
 **Languages:** Python, Dart  
 **ML & Data:** TensorFlow, Keras, Scikit-learn, Pandas, NumPy  
-**MLOps & DevOps:** Docker, Terraform, MLflow, Joblib, Swagger UI, Uvicorn, CI/CD (Jenkins), Crontab, Linux Shell, Bash 
+**MLOps & DevOps:** Docker, Terraform, MLflow, Joblib, Swagger UI, Uvicorn, CI/CD (Jenkins), Crontab, Linux Shell, Bash  
 **Backend & APIs:** FastAPI, SQLModel, Pydantic, RESTful APIs, JWT Authentication  
 **App Development:** Flutter, MVVM, MobX, Provider, WorkManager  
 **Databases & Storage:** MySQL, PostgreSQL, SQLite, Firebase, AWS S3    
